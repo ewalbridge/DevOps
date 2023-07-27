@@ -1,5 +1,5 @@
 # DevOps
+* Ansible
 * Chef
 * Puppet
-* Ansible
 * SaltStack
